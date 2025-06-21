@@ -57,7 +57,7 @@ const messages = [
     "Em chắc chưa đó? 😳",
     "Thiệt là chắc luôn hả em?? 😢",
     "Em có thật sự chắc không á? 😭",
-    "My ơi, anh năn nỉ mà... 🥺👉👈",
+    "Huyền ơi, anh năn nỉ mà... 🥺👉👈",
     "Em nghĩ lại chút xíu nữa đi mà~ 🥹",
     "Nếu em nói không, anh buồn lắm đó... 😞",
     "Anh sẽ buồn thiệt đó nha... 😔",
